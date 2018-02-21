@@ -1,6 +1,6 @@
 {
   "name": "relish",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Better error messages for Hapi.js Joi validation",
   "main": "index.js",
   "scripts": {
@@ -37,7 +37,7 @@
   "homepage": "https://github.com/dialexa/relish",
   "bugs": "https://github.com/dialexa/relish/issues",
   "dependencies": {
-    "hoek": "~4.0.2"
+    "hoek": "~4.2.0"
   },
   "devDependencies": {
     "code": "~3.0.2",
